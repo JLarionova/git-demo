@@ -17,3 +17,6 @@ this is feature!
 master text
 
 
+
+
+some text in feature branch
